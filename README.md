@@ -1,8 +1,8 @@
 # Vybrokor
 
-![Vybrokor Concept](media/concept_v1.png)
+![Vybrokor Concept](media/concept_v1.png),
 ---
-![Vybrokor Concept](media/process concept.png)
+![Vybrokor Concept](media/process concept.png),
 ---
 ![Vybrokor Concept](media/savefish.png)
 ---
