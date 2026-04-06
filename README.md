@@ -17,6 +17,20 @@
 
 ---
 ![Vybrokor Concept](media/savefish.png)
+## Environmental Impact
+
+Traditional chemical cleaning methods can introduce harmful substances into:
+
+- drains  
+- soil  
+- stormwater systems  
+- waterways  
+
+Vybrokor aims to reduce this at the source by replacing chemical processes with reusable mechanical action.
+
+![Environmental Impact](media/vybrokor-environmental-impact.png)
+
+*Concept illustration of chemical reduction and environmental benefit*
 ---
 *Concept visualization — Vybrokor mechanical cleaning system*
 
