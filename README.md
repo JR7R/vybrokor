@@ -2,7 +2,7 @@
 
 ![Vybrokor Concept](media/concept_v1.png)
 ---
-![Vybrokor Concept Process](media/concept_process.png)
+![Vybrokor Concept Process](media/conceptprocess.png)
 ---
 ![Vybrokor Concept](media/savefish.png)
 ---
