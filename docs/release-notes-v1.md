@@ -20,3 +20,4 @@ This is the first public release of Vybrokor documentation.
 ## Release intent
 
 Vybrokor is being released openly to encourage real-world adoption of cleaner mechanical alternatives to chemical-heavy motorcycle tank cleaning methods.
+this is the initial documentation release and that CAD files will come after prototype validation.
