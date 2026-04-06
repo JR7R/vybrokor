@@ -1,7 +1,7 @@
 # vybrokor
 Open mechanical documentation for an environmentally safer motorcycle fuel tank cleaning system by MotoKor.
 
-
+this is the initial documentation release and that CAD files will come after prototype validation.
 # Vybrokor
 
 **Vybrokor** is an open mechanical system developed to provide a cleaner, more environmentally responsible way to clean the inside of motorcycle fuel tanks.
