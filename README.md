@@ -2,7 +2,19 @@
 
 ![Vybrokor Concept](media/concept_v1.png)
 ---
+## How It Works (Concept Overview)
+
+1. Remove the fuel tank from the motorcycle  
+2. Drain and rinse the tank thoroughly  
+3. Fill the tank with polishing / deburring media  
+4. Apply controlled vibration (or manual agitation)  
+5. Allow media to mechanically clean internal surfaces  
+6. Inspect and repeat if necessary  
+
+📌 See visual walkthrough below
 ![Vybrokor Concept](media/process.png)
+
+
 ---
 ![Vybrokor Concept](media/savefish.png)
 ---
