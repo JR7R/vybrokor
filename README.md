@@ -12,11 +12,13 @@
 6. Inspect and repeat if necessary  
 
 📌 See visual walkthrough below
+
 ![Vybrokor Concept](media/process.png)
 
-
 ---
+
 ![Vybrokor Concept](media/savefish.png)
+
 ## Environmental Impact
 
 Traditional chemical cleaning methods can introduce harmful substances into:
@@ -27,9 +29,6 @@ Traditional chemical cleaning methods can introduce harmful substances into:
 - waterways  
 
 Vybrokor aims to reduce this at the source by replacing chemical processes with reusable mechanical action.
-
-![Environmental Impact](media/vybrokor-environmental-impact.png)
-
 *Concept illustration of chemical reduction and environmental benefit*
 ---
 *Concept visualization — Vybrokor mechanical cleaning system*
