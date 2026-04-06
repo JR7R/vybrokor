@@ -1,60 +1,77 @@
-# vybrokor
-Open mechanical documentation for an environmentally safer motorcycle fuel tank cleaning system by MotoKor.
-
-this is the initial documentation release and that CAD files will come after prototype validation.
 # Vybrokor
 
-**Vybrokor** is an open mechanical system developed to provide a cleaner, more environmentally responsible way to clean the inside of motorcycle fuel tanks.
+**An open mechanical system designed to reduce chemical-based motorcycle fuel tank cleaning.**
 
-Traditional tank restoration often relies on harsh chemicals, acids, degreasers, rust removers, and liners. These substances are frequently used in home garages and small workshops, where disposal is inconsistent and runoff can end up in drains, soil, stormwater systems, and waterways.
+---
 
-Vybrokor takes a different path.
+## What is Vybrokor?
 
-It is a mechanical, vibration-based approach intended to reduce reliance on chemical cleaning methods by using reusable media and controlled physical action instead.
+Vybrokor is a vibration-based mechanical approach to cleaning the inside of motorcycle fuel tanks using reusable media instead of harsh chemicals.
 
-## Why this is being released openly
+Traditional tank restoration methods often rely on acids, rust removers, degreasers, and liners — many of which end up entering drains, soil, and waterways due to inconsistent disposal practices.
 
-This project is being released publicly to encourage adoption, experimentation, improvement, and broader environmental awareness.
+Vybrokor exists to offer an alternative.
 
-The goal is simple:
+---
 
-**reduce harmful chemical use at the source.**
+## Why This Matters
 
-If builders, restorers, workshops, or fabricators can use, adapt, or improve this idea, that supports the mission.
+This project is released openly to encourage:
 
-## Release status
+- real-world adoption  
+- environmental impact reduction  
+- practical innovation in garages and workshops  
 
-This repository is the **initial public documentation release**.
+If this system replaces even a small percentage of chemical cleaning methods, it is a step in the right direction.
 
-At this stage, the project documentation is being released first.
+---
 
-### CAD release notice
+## Public Release Status
 
-Once a physical working model has been fully tested and finalized, CAD files will be added to this repository, including formats such as:
+This repository represents the **initial public documentation release**.
 
-- `.stl`
-- `.step`
+📄 Full documentation:  
+👉 [`docs/vybrokor-public-release-v1.md`](docs/vybrokor-public-release-v1.md)
 
-Additional file types may be provided on request where practical.
+---
 
-## Project origin
+## CAD Files (Planned Release)
 
-Vybrokor is released publicly by **Jason Rubin** as a **MotoKor initiative**.
+Full CAD files will be released after a working physical model has been tested and finalized.
 
-MotoKor exists at the intersection of motorcycle culture, practical invention, and real-world problem solving.
+Planned formats:
 
-## License
+- `.stl`  
+- `.step`  
+
+Additional formats may be provided where practical.
+
+---
+
+## Open License
 
 This project is released under the **MIT License**.
 
-That means people are free to use, modify, distribute, and build on this work in accordance with the license terms included in this repository.
+You are free to:
 
-## Important note
+- use  
+- modify  
+- build  
+- sell  
 
-This repository is provided for documentation, educational, and development purposes.
+This is intentional.
 
-Anyone building or using a physical implementation is responsible for their own testing, fabrication standards, mounting methods, operating safety, and suitability for use.
+**Adoption > restriction**
 
-## Contact / project updates
+---
 
-Project updates and public context will also be shared through the MotoKor manifesto and related MotoKor channels.
+## Origin
+
+Released publicly by **Jason Rubin**  
+As a **MotoKor initiative**
+
+---
+
+## Final Note
+
+If you build this, improve it, or take it further — you are part of the solution.
