@@ -1,5 +1,5 @@
 # Vybrokor
-
+**An open mechanical system designed to reduce or eliminate chemical-based motorcycle fuel tank cleaning.**
 ![Vybrokor Concept](media/concept_v1.png)
 ---
 ## How It Works (Concept Overview)
