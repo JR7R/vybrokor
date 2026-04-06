@@ -53,9 +53,9 @@ Planned formats:
 - `.step`  
 
 Additional formats may be provided where practical.
-![Vybrokor Concept](media/process concept.png)
----
 
+---
+![Vybrokor Concept](media/concept_v1.png)
 ## Open License
 
 This project is released under the **MIT License**.
